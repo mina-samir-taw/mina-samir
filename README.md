@@ -19,7 +19,8 @@ Currently expanding into Full-Stack development to bridge AI models with real-wo
 - SQL
 - OpenCV
 - Arduino & Embedded Systems
-- 
+- HTML & CSS
+- JavaScript 
 - Git & GitHub
 
 ---
